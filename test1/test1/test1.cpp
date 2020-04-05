@@ -4,10 +4,10 @@ using namespace std;
 
 int main() {
 
-	int first = 10000;
+	int second = 10000;
 
-	cout << "First Function : from second ID, first is "  << first << endl;
 
+	cout << "First Function : from second ID, second is " << second << endl;
 
 	system("pause");
 
