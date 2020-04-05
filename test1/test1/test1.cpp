@@ -3,8 +3,7 @@
 using namespace std;
 
 int main() {
-
-	cout << "First Function" << endl;
+	cout << "First Function : from second ID" << endl;
 
 	system("pause");
 
