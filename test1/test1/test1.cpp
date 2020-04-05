@@ -3,7 +3,11 @@
 using namespace std;
 
 int main() {
-	cout << "First Function : from second ID" << endl;
+
+	int second = 10000;
+
+
+	cout << "First Function : from second ID, second is " << second << endl;
 
 	system("pause");
 
